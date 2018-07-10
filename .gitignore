@@ -1,0 +1,14 @@
+.idea/
+*.iml
+spark-warehouse/
+target/
+dependency-reduced-pom.xml
+version.txt
+override.conf
+*.pq.crc
+derby.log
+metastore_db
+metastore_*
+data/
+.DS_*
+*warehouse_*
