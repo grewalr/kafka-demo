@@ -7,7 +7,7 @@ import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}
 import scala.util.Random
 
 object ProducerExample extends App {
-  val events = 1
+  val events = 10
 
   val topic = "grewalr-test"
 
